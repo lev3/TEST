@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FacePrint {
    public static void main(String[] args) {
       Scanner scnr = new Scanner(System.in);
-      char userChar = '-iiiiii-'; // User-entered character
+      char userChar = '-iimii-'; // User-entered character
       String usrInput = "";
 
       while (userChar != 'q') {
