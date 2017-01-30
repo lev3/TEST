@@ -4,7 +4,7 @@ public class FacePrint {
    public static void main(String[] args) {
       Scanner scnr = new Scanner(System.in);
       char userChar = '-iimii-'; // User-entered character
-      String usrInput = "test user";
+      String usrInput = "test user 890";
 
       while (userChar != 'q') {
          // Print face
