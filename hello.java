@@ -11,7 +11,7 @@ public class FacePrint {
          System.out.println("" + userChar + " " + userChar);
          System.out.println(" " + userChar);
          System.out.println("" + userChar + "" + userChar + "" + userChar);
-
+	//test comment
          // Get user character
          System.out.print("\nEnter a character ('q' to quit): ");
          usrInput = scnr.next();
