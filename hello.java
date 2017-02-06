@@ -18,8 +18,8 @@ public class FacePrint {
          userChar = usrInput.charAt(0); // Get the first char in the String
          System.out.println("");
       }
-
-      System.out.println("Goodbye.");
+					
+      System.out.println("Goodbye."); //prints out goodbye
 
       return;
    }
